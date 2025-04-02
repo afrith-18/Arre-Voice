@@ -83,6 +83,6 @@ Contributions are welcome! Feel free to fork this repository, create a branch, a
 ---
 
 ## 📬 Contact
-For any queries, reach out to [your-email@example.com] or create an issue in the repository.
+For any queries, reach out to mohamedibrahim.23mca@kct.ac.in or create an issue in the repository.
 
 Happy Coding! 🚀
